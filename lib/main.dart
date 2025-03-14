@@ -15,7 +15,7 @@ class AlertDialogExampleApp extends StatelessWidget {
         appBar: AppBar(
           centerTitle: true,
           title: const Text(
-            'Dialog Topshiriq',
+            'Dialog Topshiriq ',
             style: TextStyle(color: Colors.white),
           ),
           backgroundColor: Colors.blueAccent,
